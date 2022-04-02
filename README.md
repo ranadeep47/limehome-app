@@ -1,2 +1,4 @@
-# limehome-app
-A React-Native assignment
+### limehome-app
+
+Run `yarn`
+Run `expo start`
